@@ -40,3 +40,7 @@ next-env.d.ts
 
 # Intelij
 .idea
+
+# Storybook
+src/stories
+storybook-static
