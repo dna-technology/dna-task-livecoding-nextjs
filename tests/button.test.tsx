@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import '@testing-library/jest-dom';
 
 describe('Button component', () => {
-  it('should render', () => {
+  it('expect to render', () => {
     const { container } = render(
       <Button
         label="Go to shop"
